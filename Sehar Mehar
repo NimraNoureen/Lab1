@@ -1,6 +1,5 @@
- main
-Console.WriteLine("Enter the Name");
-String name = Console.ReadLine();
+Console.WriteLine("Enter name");
+string name = Console. Readline();
 Console.WriteLine("Enter Roll no");
 int Roll no = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine (" Enter Department");
