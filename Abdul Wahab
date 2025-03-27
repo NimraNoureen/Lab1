@@ -1,0 +1,11 @@
+Console.WriteLine("Abdul Wahab");
+Console.WriteLine("roll no. 24-st-069");
+Console.WriteLine("2nd semester");
+Console.WriteLine("software engineering dept.");
+Console.WriteLine("Probaility and Statistics");
+Console.WriteLine("THQ-1");
+Console.WriteLine("Software Development Life Cycle");
+Console.WriteLine("Discrete Structures");
+Console.WriteLine("Functional English");
+Console.WriteLine("Object Oriented Programming");
+Console.WriteLine("Software Configuration Management");
