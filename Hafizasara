@@ -1,0 +1,17 @@
+Console.WriteLine("Enter name");
+string name-Console.ReadLine();
+Console.WriteLine("Enter Roll no");
+int roll_no=Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter Department.");
+string department-Console.ReadLine();
+List <string>Papers=new List<string>(Papers);{
+"OOP"
+"SCM"
+"SDLC"
+"Discrete Structures"
+"THQ-1"
+"Functional English"
+"Probability and statistics";
+}
+Console.WriteLine("Papers given in 2 semester sre listed.");
+Console.Readline();
