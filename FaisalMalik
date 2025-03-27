@@ -5,6 +5,7 @@ class StudentInfo
 {
     static void Main()
     {
+        //check my rollno and department
         string rollNumber = "24-ST-060";
         string department = "BSc Software Engineering Technology";
         
