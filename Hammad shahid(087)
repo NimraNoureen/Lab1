@@ -1,0 +1,8 @@
+Console.WriteLine("my name is hammad ");
+Console.WriteLine("my roll no  is 24-ST-087 ");
+Console.WriteLine("my department is : software engineering technology ");
+Console.WriteLine("1: tarjamtul quran ");
+Console.WriteLine("2: english  ");
+Console.WriteLine("3:OOP  ");
+Console.WriteLine("4: Statics  ");
+Console.WriteLine("5:Discrete structure");
