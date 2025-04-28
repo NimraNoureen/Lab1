@@ -1,4 +1,4 @@
-hConsole.WriteLine("24-ST-007");
+hConsole.WriteLine("24-SET-007");
 Console.WriteLine("Software Engineering");
 Console.WriteLine("SCM");
 Console.WriteLine("Discrete");
