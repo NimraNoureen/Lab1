@@ -1,0 +1,13 @@
+Name: Zain-Ul-Abedin
+Roll Number: 24-ST-038
+Department: Software Engineering
+
+Papers given in 2nd Semester:
+
+1. Probability and Statistics
+2. Object Oriented Programming
+3. Discrate Structures
+4. Software Configuration Management
+5. Functional English
+6. Teaching of Holy Quran
+7. SDLC
