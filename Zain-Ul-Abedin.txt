@@ -10,4 +10,4 @@ Papers given in 2nd Semester:
 4. Software Configuration Management
 5. Functional English
 6. Teaching of Holy Quran
-7. SDLC
+7. Softwaer Development Life Cycle
