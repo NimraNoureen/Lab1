@@ -1,8 +1,8 @@
-Roll Number: 24-SET-014
-Department: Software Engineering Technology
-2nd Semester Papers:
-- OOP
-- SDLC
-- SCM
-- Stats
-- Discrete Structure
+Console.Writeline("Roll Number: 24-SET-014");
+Console.Writeline("Department: Software Engineering Technology");
+Console.Writeline("2nd Semester Papers:");
+Console.Writeline("- OOP");
+Console.Writeline("- SDLC");
+Console.Writeline("- SCM");
+Console.Writeline("- Stats");
+Console.Writeline("- Discrete Structure");
