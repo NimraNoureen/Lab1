@@ -1,7 +1,7 @@
 Console.WriteLine("24-ST-003");
 Console.writeLine("Software Engineering Department");
 Console.WriteLine("List of subjects");
-
+List<Subject> subjects = new List<Subject>();
  1. Object-Oriented Programming
  2. Linear Algebra
  3. Communication Skills
