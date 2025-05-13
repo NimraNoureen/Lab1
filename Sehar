@@ -3,3 +3,16 @@ string name= Console.ReadLine():
 Console.WriteLine("Enter Roll no.);
 int roll no.=Convert.ToInt32(Console.ReadLine());
 Console.ReadLine();
+
+List<string>SecondSemesterPapers=new List<string>(){
+oop
+Eng
+SCM
+THQ
+Stat
+SDLC
+Discrete Structure
+}
+Console.WriteLIne("Papers are given in the 2nd Semester");
+
+Console.ReadLine();
