@@ -1,0 +1,7 @@
+hConsole.WriteLine("24-SET-007");
+Console.WriteLine("Software Engineering");
+Console.WriteLine("SCM");
+Console.WriteLine("Discrete");
+Console.WriteLine("English");
+Console.WriteLine("THQ");
+Console.WriteLine("Stats");
