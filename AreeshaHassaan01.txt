@@ -1,0 +1,10 @@
+Roll Number: 24-ST-034 
+Department: Software Engineering Technology
+2nd Semester Papers:  
+1. Object Oriented Programming
+2. Discrete Structures
+3. Statistics
+4. Software Development Life Cycle
+5. Functional English
+6. Translation of Holy Quran
+7. Software Configuration Management
