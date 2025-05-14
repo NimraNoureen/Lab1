@@ -1,5 +1,6 @@
 Roll Number: 24-ST-034 
 Department: Software Engineering Technology
+Areesha Hassaan
 2nd Semester Papers:  
 1. Object Oriented Programming
 2. Discrete Structures
