@@ -1,6 +1,6 @@
 Roll Number: 24-ST-035
 Department: Software Engineering Technology 
-
+Abdul Wasay Bin Hassaan
 2nd Semester Papers:  
 1. Object Oriented Programming 
 2. Discrete Structures
